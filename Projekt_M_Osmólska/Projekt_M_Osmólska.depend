@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1594128945 source:c:\users\marta\desktop\zadania na pk\projekt_m_osmólska\projekt_m_osmólska\main.c
+	"header.h"
+
+1594128945 c:\users\marta\desktop\zadania na pk\projekt_m_osmólska\projekt_m_osmólska\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594128945 source:c:\users\marta\desktop\zadania na pk\projekt_m_osmólska\projekt_m_osmólska\source.c
+	"header.h"
+
+1594128945 source:c:\users\marta\desktop\zadania na pk\projekt_m_osmólska — kopia\projekt_m_osmólska\main.c
+	"header.h"
+
+1594128945 c:\users\marta\desktop\zadania na pk\projekt_m_osmólska — kopia\projekt_m_osmólska\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594129676 source:c:\users\marta\desktop\zadania na pk\projekt_m_osmólska — kopia\projekt_m_osmólska\source.c
+	"header.h"
+
+1594204846 source:c:\users\marta\desktop\zadania na pk\projekt_m_osmólska — official\projekt_m_osmólska\main.c
+	"header.h"
+
+1594217875 c:\users\marta\desktop\zadania na pk\projekt_m_osmólska — official\projekt_m_osmólska\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594217875 source:c:\users\marta\desktop\zadania na pk\projekt_m_osmólska — official\projekt_m_osmólska\source.c
+	"header.h"
+
+1594204846 source:c:\users\marta\desktop\projekt_m_osmólska — official##\projekt_m_osmólska\main.c
+	"header.h"
+
+1594296858 c:\users\marta\desktop\projekt_m_osmólska — official##\projekt_m_osmólska\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594217875 source:c:\users\marta\desktop\projekt_m_osmólska — official##\projekt_m_osmólska\source.c
+	"header.h"
+

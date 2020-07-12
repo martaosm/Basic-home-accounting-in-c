@@ -1,0 +1,9 @@
+luty_2020
+Budzet: 4500
+Czynsz: 2000
+Kieszonkowe: 200
+Zakupy: 200
+Rachunki: 200
+Edukacja: 200
+Budzet nie zostal przekroczony. Twoj stan konta na miesiac luty_2020 to 1700
+Limit nie zostal przekroczony
